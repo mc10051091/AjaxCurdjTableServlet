@@ -1,5 +1,5 @@
 package com.dao;
-
+//primer locura
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
