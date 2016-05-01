@@ -4,6 +4,7 @@ package com.dao;
 //tercera locura remota
 //cuarto locura remota
 //quinta locura remota
+//buena
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
